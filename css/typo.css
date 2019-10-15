@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Gloria+Hallelujah&display=swap');
+
+html {font-size: 16px;}
+
+body {
+  background-color: black;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 550;
+
+  line-height: 1.45;
+  color: #333;
+  text-align: ;justify-content: center;
+}
+
+
+
+
+p {margin-bottom: 1.25em;}
+
+h1, h2, h3, h4, h5 {
+
+  margin: 2.75rem 0 1rem;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: 400;
+  line-height: 3;
+  text-align: center
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.052em;
+
+}
+
+h2 {font-size: 2.441em;}
+
+h3 {font-size: 1.953em;}
+
+h4 {font-size: 1.563em;}
+
+h5 {font-size: 1.25em;}
+
+small, .text_small {font-size: 0.8em;}
